@@ -2,7 +2,7 @@
   "name": "employee-tracker-app",
   "version": "1.0.0",
   "description": "A command-line application for managing a company's employee database. It allows users to view, add, update, and delete employee, department, and role information.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
