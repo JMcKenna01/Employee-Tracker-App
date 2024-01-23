@@ -28,6 +28,9 @@ View department budgets.
 # Walkthrough Video
 Click here to view the walkthrough video.
 
+[Employee_Tracker_App.webm](https://github.com/JMcKenna01/Employee-Tracker-App/assets/147211404/52576068-6b8e-4685-b0b9-56b1b77b2885)
+
+
 # Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
